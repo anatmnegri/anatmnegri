@@ -1,6 +1,6 @@
-<h1 align="center"> Oii, aqui é a Ana, estudante de programação <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif width="30"> </h1>
+<h1 align="center"> Oii, aqui é a Ana, desenvolvedora full stack <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif width="30"> </h1>
 
-Estou no início do processo de aprendizado, atualmente fazendo os cursos de desenvolvimento back-end e front-end utilizando a linguagem JavaScript.
+Atualmente estou estudando para me tornar uma desenvolvedora full stack, me aprofundando em TypeScript, NodeJS e React.
 
 <div align="center">
   <a href="https://github.com/anatmnegri">
